@@ -101,3 +101,13 @@ function getMax(arrayinput) {
 console.log(getMax([5, 100, 0]));
 console.log(getMax([12, 10, -20]));
 console.log(getMax([-300, -100, -200]));
+
+//Create a function that will take a string, then return the reversed string
+
+function reverseString() {
+
+}
+
+console.log(reverseString('abc'))
+console.log(reverseString('Nico'))
+console.log(reverseString('This is cool'))
