@@ -177,7 +177,6 @@ console.log(filterOutFalsy(['banana', 2, 90, false, 0, true, 'hello world']));
 function converToBoolean(arr){
     let newArr = arr.map(value => !!value)
         return newArr;
-    
 }
 
 console.log(converToBoolean([500, 0, 'David', '', [] ]))
