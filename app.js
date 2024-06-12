@@ -180,3 +180,4 @@ function converToBoolean(arr){
 }
 
 console.log(converToBoolean([500, 0, 'David', '', [] ]))
+
